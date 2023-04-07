@@ -6,8 +6,6 @@ soup = BeautifulSoup(res.text, 'html.parser')
 a = soup.select('.w_tle')
 
 
-# print(a[0].getText())
-# print(a[0].select('a')[0].get('href',None))
 def toi_news_headlines(links):
     nh = []
     for item, idx in enumerate(links):
