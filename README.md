@@ -2,7 +2,7 @@
 
 # Description
 - It is a simple scraping api which scrap news feed from Times of India(TOI)
-- It provides lists of Titels and Links crossponding to them
+- It provides lists of Titles and Links crossponding to them
 
 # Prerequisties
   - Python 3
